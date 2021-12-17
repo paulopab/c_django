@@ -1,0 +1,2 @@
+PIPENV_VENV_IN_PROJECT=1
+Para que o pipenv cria o anbiente virtual na pasta do meu projeto
